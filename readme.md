@@ -1,4 +1,4 @@
-## Trabajo práctico labo3 - Maestría Ciencia de Datos 2025
+# Labo3 2025R
 
 Este repositorio documenta el desarrollo completo del trabajo práctico para la materia Laboratorio de Implementación 3, correspondiente a la Maestría en Ciencia de Datos. El proyecto se centra en resolver un problema de predicción de demanda, con el objetivo de estimar las ventas en toneladas (tn) para un conjunto de productos durante el período de febrero de 2020.
 
