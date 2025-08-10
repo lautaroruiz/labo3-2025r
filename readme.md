@@ -63,30 +63,11 @@ Asegúrate de estar en la raíz del proyecto y con el ambiente `labo_3_env` acti
 poetry install
 ```
 
-## Ambiente virtual ".venv" en repositorio
-
-Al instalar el ambiente por primera vez, el ambiente se crea fuera del repositorio, para verificar esto:
-```bash
-poetry env info --path
-```
-
-Si deseas que el ambiente virtual se cree dentro del repositorio, primero elimina el ambiente virtual existente de forma manual (eliminando la carpeta que aparece con el comando anterior).
-
-Luego, puedes configurar Poetry para que cree el ambiente virtual dentro del repositorio:
-```bash
-poetry config virtualenvs.in-project true
-```
-
-Y vuelve a instalar las dependencias:
-```bash
-poetry install 
-```
-
 ---
 
 ## Datasets necesarios para la ejecución del código
 
-Los unicos datasets que no se generan con este repositorio y son necesarios para ejecutar las notebooks/scripts son:
+Los únicos datasets que no se generan con este repositorio y son necesarios para ejecutar las notebooks/scripts son:
 
 * `data/raw/sell-in.txt`
 * `data/raw/tb_productos.txt`
