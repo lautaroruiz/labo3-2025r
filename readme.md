@@ -132,3 +132,8 @@ Los únicos datasets que no se generan con este repositorio y son necesarios par
 * `notebooks/5_modelo_final`
 
     - **data/predict/final/predicciones_final_{time_tag}.csv**: archivo de prediccion final seleccionado, misma alternativa que data/predict/final/lgbm_optuna_y_ensamble_semillas_top20_prod_y_magicos_{time_tag}.csv
+
+
+## Informe Final
+
+* Disponible en `informe_final/Trabajo Final Labo III - MCD Austral 2025.pdf`.
